@@ -7,9 +7,7 @@ I am iOS Developer from Moscow
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/so1ovyov/)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/maxim_solovyov)
 <br>
-<br>
 ## Expertise
 <img align="left" alt="swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
 <img align="left" alt="swift-ui" src="https://img.shields.io/badge/swift%20ui-%231877F2.svg?logo=swift&logoColor=white&style=for-the-badge" />
-<br>
 <br>
