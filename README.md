@@ -2,6 +2,7 @@
 I am iOS Developer from Moscow
 <br>
 ## Connect with me
+[<img align="left" alt="telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/maxim_solovyov)
 [<img align="left" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/maxim-solovyov-343b58271)
 <br>
 ## Expertise
